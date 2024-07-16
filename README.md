@@ -1,0 +1,2 @@
+# Exploring-Financial-Data-Using-Nasdaq-Data-Link-API
+In this DS project, I used Python and the Nasdaq Data Link API to analyze economic data. I cleaned financial datasets with pandas, analyzed stock trends, created visualizations with Matplotlib, and developed a linear regression model using time and expense turnover to predict a financial metric. This enhanced my skills in financial data analysis.
